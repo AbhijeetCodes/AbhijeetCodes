@@ -1,6 +1,6 @@
 ## Hi, I'm Abhijeet
 
-I lead analytics for the Monetization and Growth teams at Carousell in Singapore. Before that I worked on data at Meta, Syngenta and upGrad, mostly turning messy business data into numbers people can act on.
+I work in analytics. I've led analytics teams across growth, monetization and revenue, and was previously at Meta. Most of my work is turning messy business data into numbers people can act on.
 
 Outside work I build small tools for problems I run into myself. They usually run in the browser and cost nothing to use.
 
