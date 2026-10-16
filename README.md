@@ -1,8 +1,8 @@
 ## Hi, I'm Abhijeet
 
-I work on data end to end, from analytics engineering (pipelines, data models) to dashboards and forecasts. I've led analytics teams across growth, monetization and revenue, and was previously at Meta.
+I work on data end to end, from analytics engineering (pipelines, data models) to dashboards and forecasts. I've led analytics teams across growth, monetization and revenue, and was previously at Meta. [LinkedIn](https://www.linkedin.com/in/abinotronix)
 
-Outside work I build small tools for problems I run into myself. They usually run in the browser and cost nothing to use.
+
 
 ### Things I've built
 
@@ -23,6 +23,5 @@ Outside work I build small tools for problems I run into myself. They usually ru
 
 Also two Claude skills: [source-to-book](https://github.com/AbhijeetCodes/source-to-book) turns long podcasts and articles into a readable book; [make-a-course](https://github.com/AbhijeetCodes/make-a-course-skill) turns a codebase into a course.
 
-### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/abinotronix)
+
