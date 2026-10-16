@@ -1,6 +1,6 @@
 ## Hi, I'm Abhijeet
 
-I work in analytics. I've led analytics teams across growth, monetization and revenue, and was previously at Meta. Most of my work is turning messy business data into numbers people can act on.
+I work in analytics and analytics engineering, and enjoy the whole data stack: pipelines, data models, dashboards and forecasts. I've led analytics teams across growth, monetization and revenue, and was previously at Meta.
 
 Outside work I build small tools for problems I run into myself. They usually run in the browser and cost nothing to use.
 
